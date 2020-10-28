@@ -1,6 +1,5 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
-
 [![Build Status](https://alfzancalive.visualstudio.com/Parts%20Unlimited/_apis/build/status/zanca.calculator?branchName=master)](https://alfzancalive.visualstudio.com/Parts%20Unlimited/_build/latest?definitionId=8&branchName=master)
 
 An example node.js project, including tests with mocha, that behaves like
